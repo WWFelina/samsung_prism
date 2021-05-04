@@ -1,0 +1,281 @@
+To turn up the volume on your Google Home, you can say: “Hey Google, increase volume”, “Hey Google, turn it up”, or “Hey Google, increase volume to maximum”.
+To turn the volume down, say: “Hey Google, decrease volume”, “Hey Google, turn it down”, or “Hey Google, decrease volume to minimum”.
+If you need Google Home to pause, resume or stop, just say: “Hey Google, pause”, “Hey Google, resume”, or “Hey Google, stop”.
+Want to know some examples of things Google Home can do? Just say: “Hey Google, help”.
+More: What’s the best smart speaker you can buy?
+
+Google Assistant commands for productivity
+Google Home Hub Max review 6
+
+Credit: Andrew Grush / Android Authority
+Set an alarm: “Hey Google, set an alarm for 7 AM”, “Hey Google, set an alarm for every Friday morning at 7 AM”, “Hey Google, set an alarm in 25 minutes”, or “Hey Google, wake me up at 7 AM every day”.
+Set a kids-themed alarm: “Ok Google, set a Teenage Mutant Ninja Turtle alarm for 8 PM”.
+Check your alarms: “Hey Google, when is my next alarm?”.
+Snooze an alarm: “Hey Google, snooze alarm”.
+Cancel an alarm: “Hey Google, cancel alarm for [time]”.
+Set a timer: “Hey Google, set a timer for [time]”.
+Check timer: “Hey Google, how much time is left on my timer?”.
+Check the time: “Hey Google, what time is it?”.
+International time: “Hey Google, what time is it in [location]?”.
+Convert currency: “Hey Google, how much is $5 in euros?”.
+Check your location: “Hey Google, where am I?”.
+Translate something: “Hey Google, how do you say ‘hello’ in Spanish?”.
+Roll a die: “Hey Google, roll a die”.
+Flip a coin: “Hey Google, flip a coin”.
+Add to your shopping list: “Hey Google, add [item] to my shopping list”.
+Check your shopping list: “Hey Google, what’s on my shopping list?”.
+Find out a recipe: “Hey Google, how do you make chicken soup?”.
+Math: “Hey Google, what is 14 x 5?”.
+Count: “Count: “OK, Google, count to 20”.
+Random number: “OK, Google, give me a random number between 5 and 50”.
+Measurements: “Hey Google, how many centimeters are in an inch?”.
+Remember things: “OK, Google, remember that I put my passport in the filing cabinet”, or “Remember that my password is ‘money'”.
+Recall things: “OK, Google, where is my passport?” or “What is my password?”.
+Get a recipe: “OK, Google, how do I make [dish]?”.
+Also: 10 best productivity apps for Android
+
+Google Assistant privacy commands
+Automation of Jobs Robot 1200x675
+
+If you are concerned about your commands being stored by the search giant, there are a few Google Home commands you can use to protect your privacy:
+
+Access Google’s privacy portal: “OK, Google, how are you keeping my data safe?”.
+Delete your most recent voice command: “OK, Google, delete what I just said”.
+To delete commands from a past time frame: “OK, Google, delete everything I said today/this week/this month/this year”.
+Read: Everything you need to know about privacy in Android 10
+
+Google Assistant commands for broadcasting over more than one speaker
+google home nest devices
+
+If you own more than one Google Assistant-based smart speaker, you can make commands that will broadcast across all of the speakers in your home:
+
+Wake up: “OK, Google, broadcast ‘wake everyone up'”, or “OK, Google, broadcast ‘it’s time to wake up'”.
+Breakfast: “OK, Google, broadcast ‘breakfast is ready'”, “OK, Google, broadcast ‘breakfast is served'”, or “OK, Google, broadcast ‘it’s time for breakfast'”.
+Lunch: “OK, Google, broadcast ‘lunch is ready'”, or “OK, Google, broadcast ‘it’s lunch time'”.
+Dinner: “OK, Google, broadcast ‘dinner is ready/served'”, “OK, Google, broadcast ‘ring the dinner bell'”, or “OK, Google, broadcast ‘it’s dinner time'”.
+Time to leave: “OK, Google, broadcast ‘time to leave'”, or “OK, Google, broadcast ‘time to get out'”.
+Arrived home: “OK, Google, broadcast ‘I’m home'”, or “OK, Google, broadcast ‘I’m here'”.
+On the way: “OK, Google, broadcast ‘I’m on the way'”, or “OK, Google, broadcast ‘I’ll be home soon'”.
+Movie time: “OK, Google, broadcast ‘it’s movie time'”, “OK, Google, broadcast ‘the movie is about to start'”, or “OK, Google, broadcast ‘let’s go to the movie'”.
+TV time: “OK, Google, broadcast ‘the show is about to start'”, “OK, Google, broadcast ‘it’s time to watch TV'”, or “OK, Google, broadcast ‘TV time'”.
+Bedtime: “OK, Google, broadcast ‘time for bed'”, “OK, Google, broadcast ‘it’s time to go to bed'”, or “OK, Google, broadcast ‘sleep time'”.
+Custom: “OK, Google, broadcast/shout/announce/tell everyone [custom message]”.
+See also: The best Google Assistant speakers you can buy
+
+Google Assistant commands for searching the web
+Google Home Hub Max review 10
+
+Credit: Andrew Grush / Android Authority
+Check the weather: “Hey Google, what’s the weather like today?”, “Hey Google, do I need an umbrella today?”, “Hey Google, what’s the weather going to be like in [location] on [day/time]?”, “Hey Google, what’s the temperature outside?”, “Hey Google, is there a chance of rain on [day]?”.
+Check traffic: “Hey Google, what’s the traffic like on the way to work?”.
+Check stocks: “Hey Google, what’s the Alphabet stock price?” or “Hey Google, what’s Samsung trading at?”.
+Get a definition: “Hey Google, define [word].”, “Hey Google, what’s the definition of [word]?” or “Hey Google, what’s the meaning of [word]?”.
+Spelling: “Hey Google, how do you spell [word]?”.
+Holidays and events: “Hey Google, when is Thanksgiving this year?”.
+People and relationships: “Hey Google, who is [person]?”, “Hey Google, how old is [he/she]?”, “Hey Google, who is [person] married to?”, “Hey Google, who is [person]’s brother/sister/mother/father?”.
+Places: “Hey Google, what country is [location] in?”.
+Things: “Hey Google, what is [thing]?”.
+Facts: “Hey Google, how tall is [person]?”.
+Distance: “Hey Google, how far is [location] from [location]?”, “Hey Google, how far is [location] from here?”.
+Businesses and information: “Hey Google, how far is [business] from here?”, “Hey Google, are there any [business type] around here?”, “Hey Google, how late is [business] open?”.
+Quotes: “Hey Google, give me a quote”.
+Poems: “Hey Google, tell me a poem”.
+Medical information: “Hey Google, what is a heart attack?”.
+Calories: “Hey Google, how many calories are in [food]?”.
+Animal sounds: “Hey Google, what sound does an [animal] make?”.
+Today’s news: “Hey Google, what’s today’s news?”.
+Daily briefing (includes weather, traffic and news): “Hey Google, good morning”.
+Sports updates, scores and information: “Hey Google, when are the [sports team] playing next?”, “Hey Google, did the [sports team] win?”, “Hey Google, what was the score for the last [sports team] game?”, “Hey Google, tell me about [sports team]”.
+Actors, movies and shows: “Hey Google, what actors are in [movie]?”, “Hey Google, what movies came out last week?”.
+Recommendations: “Hey Google. what are the best restaurants in [target location}?” “Hey, Google what restaurants are nearby?”.
+Find out how long it will take to go to work: “Hey Google, How long is my commute?”, “Hey Google, How long will it take to walk/bike/take a bus to [target location]?” Hey Google, how long will it take to get to [target location]?”, “Hey Google, How long with it take to get from work to [target location]?”.
+Here: Google Home and Google Assistant services you should know about
+
+Google Assistant commands for scheduling and travel
+Google Calendar stock photo 3
+
+Credit: Edgar Cervantes / Android Authority
+Check the daily schedule: “Hey Google, what does my day look like?”, “Hey Google, list all events for [specific date]”, “Hey Google, what’s on my calendar for [day of the week]?”.
+Create a new calendar event: “OK, Google, new calendar event”, “OK, Google, add [event] to my calendar”, or “OK, Google, schedule [event] for me on Saturday at 8 PM”.
+List next calendar event: “OK, Google, what’s next on my calendar?”, or “What/where/when is my next meeting?”.
+List calendar events for a day: “OK, Google, list all events for Jan. 1”, “OK, Google, what’s on my agenda for today?”, or “OK, Google, what’s on my calendar for Friday?”.
+Check when your next event is: “Hey Google, What/when/where is my next event?”, “Hey Google, What/when/where is my first event?”.
+Check reminders: “OK, Google, what are my reminders?”, “OK, Google, what are my reminders tomorrow?”, or “OK, what is my reminder for [title]?”.
+Delete reminders: “OK, Google, delete my reminders for tomorrow”, “OK, Google, delete my reminder to [title]”, or “OK, Google, delete all of my reminders”.
+Check notifications: “OK, Google, what’s up?”, or “OK, Google, what are my notifications?”.
+Check prices for an airline flight: “OK, Google, how much is a round-trip flight to New York?”.
+Find flights with a specific airline: “OK, Google, find me flights with Jet Blue”.
+Check on your booked flights: “OK, Google, when is my next flight?”, or “OK, Google, my flights in [month]”.
+Book a hotel room: “OK, Google, find a hotel in San Francisco”. After that, say, “Book a room at Quality Inn”.
+Discover places to visit in your travel city: “OK, Google, what is there to see in Paris?”.
+Find restaurants to try in your travel city: “OK, Google, what’s the best restaurant in Berlin?.
+More: 10 best calendar apps
+
+Google Assistant commands for playing music and media
+YouTube Music on smartphone stock photo 2
+
+Credit: Edgar Cervantes / Android Authority
+Play some music: “Hey Google, play some music.”, “Hey Google, play some [genre] music.”, “Hey Google, play some music on [music service].”
+Adjust the volume: “Hey Google, turn up the volume”. “Hey Google, turn down the volume”.
+Play an artist, song, album or genre: “Hey Google, play [artist]”, “Hey Google, play [song]”, “Hey Google, play the album [album]”, “Hey Google, play [artist/song/album] on [music service]”, “Hey Google, play some [genre] music”.
+Play a playlist: “Hey Google, play my dance playlist”.
+Play a song by lyrics: “Hey Google, play the song that goes [song lyrics]”.
+Ask what’s playing: “Hey Google, what’s this song?”, “Hey Google, what’s this album?”.
+Get information: “Hey Google, when did this song come out?”.
+Like or dislike a song: “Hey Google, like this song.”, “Hey Google, dislike this song”.
+Fast forward or rewind: “Hey Google, skip forward 30 seconds”, “Hey Google, skip backward two minutes” “Hey Google, pause or skip tracks”.
+Tune a musical instrument: “OK, Google, tune my instrument”, or “OK, Google, play an F sharp”.
+Also: The best music streaming services and apps
+
+Google Assistant commands for Chromecast
+google chromecast remote
+
+If you own a Chromecast dongle on your TV, there are some specific commands you can use via Google Assistant:
+
+Play music on Chromecast: “Hey Google, play [artist/song/album] on my Chromecast”.
+Play videos on YouTube using Chromecast: “Hey Google, play funny cat videos on Chromecast”, “Hey Google, play the latest video from Android Authority on Chromecast”.
+Turn on/off the TV with Chromecast: “OK, Google, turn on the [Chromecast name]”, or “OK, Google, turn off the [Chromecast name]”.
+Play a movie or TV show on Netflix using Chromecast: “OK, Google, play [show or movie title] on the [TV name]”.
+Play music through other speakers using Chromecast: “OK, Google, play [song] on [Chromecast or Google Home name]”.
+Listen to audiobook on another device: “OK, Google, read my book on [Chromecast or Google Home speaker name]”.
+Play and pause Chromecast: “OK, Google, play/pause [Chromecast name]”.
+Stop Chromecast: “OK, Google, stop [Chromecast name]”.
+Scrub the Chromecast: “OK, Google, skip to 5 minutes on [Chromecast name]”, or “OK, Google, skip forward/back two minutes on [Chromecast name]”.
+Change Chromecast volume: “OK, Google, set [Chromecast name] volume to 50%”, or “OK, Google, volume down on [Chromecast name]”.
+Mute Chromecast: “OK, Google, mute [Chromecast]”, or “OK, Google, unmute [Chromecast name]”.
+Images: “OK, Google, show me a picture of an antelope”.
+Weather: “OK, Google, show me the weather on [Chromecast name]”.
+Next: The best Chromecast apps you can find
+
+Google Assistant commands for your smart home setup
+Philips Hue light bulb 2 - Google Home commands
+
+Credit: Edgar Cervantes / Android Authority
+If you happen to own a Philips Hue, Nest Thermostat or Samsung SmartThings device, you’re in luck — you can perform a number of different actions with these devices via Google Home commands. Below you’ll find a list of some of the commands you can use with Google Home to help automate your connected gadgets.
+
+How to control Philips Hue lights (or lights connected through SmartThings)
+Turn on or off a light: “Hey Google, turn on [light name]”, “Hey Google, turn off [light name]”.
+Dim or brighten a light: “Hey Google, dim the [light name]”, “Hey Google, brighten the [light name]”.
+Set a light brightness to a certain percentage: “Hey Google, set [light name] to 50%”.
+Dim or brighten lights by a certain percentage: “Hey Google, dim/brighten [light name] by 50%”.
+Change the color of a light: “Hey Google, turn [light name] green]”.
+Turn on or off all lights in a room: “Hey Google, turn on lights in [room name]”, “Hey Google, turn off lights in [room name]”.
+Turn on or off all lights: “Hey Google, turn on all of the lights”, “Hey Google, turn off all of the lights”.
+How to control your Nest thermostat
+Adjust the temperature: “Hey Google, make it warmer/cooler”, “Hey Google, raise/lower the temperature”, “Hey Google, raise/lower the temperature two degrees”, “Hey Google, set the temperature to 72 degrees”.
+Switch to heating or cooling modes: “Hey Google, turn on heat/cooling”, “Hey Google, set the thermostat to cooling/heating”, “Hey Google, turn the thermostat to heat-cool mode”.
+Set the mode and temperature: “Hey Google, set the heat to 68”, “Hey Google, set the air conditioning to 70”, “Hey Google, set [room name] thermostat to 72”.
+Turn thermostat off: “Hey Google, turn off thermostat”.
+Note: To turn the thermostat back on, you’ll need to specify a mode. You can say “Hey Google, turn on cooling/heating”, “Hey Google, turn on heat-cool”, “Hey Google, set the heat to 68”, “Hey Google set the air conditioning to 70”, etc.
+Check the ambient temperature on the thermostat: “Hey Google, what’s the temperature inside?”.
+Check what the thermostat is set to: “Hey Google, what’s the thermostat set to?”.
+How to control Samsung SmartThings devices
+Turn on or off all lights: “Hey Google, turn on all lights”, “Hey Google, turn off all lights”.
+Turn on or off all switches: “Hey Google, turn on all switches”, “Hey Google, turn off all switches”.
+Turn on or off everything in a room: “Hey Google, turn on everything”, “Hey Google, turn off everything”.
+Note: Google Assistant recognizes “lights”, “switches”, and “outlets” as different kinds of devices. For example, if you say “Hey Google, turn on the lights”, it will turn on smart light bulbs but may not turn on smart switches that are connected to lamps or other lighting fixtures. To control those switches, add the word “light” to the name or nickname of the device.
+
+Read: What is a smart home and why you should want one
+
+How to control other smart home devices
+If you installed an August Smart Lock on your door, you can control it by saying: “OK, Google, lock the front door”.
+If you own a Logitech Harmony TV remote, you can say: “OK, Google, turn on the TV”, “OK, Google, turn the TV to the (specific) Channel”, or, “OK, Google, play channel 12”.
+If you own a Nest Cam, you can show what it’s filming via a Chromecast TV by saying: “OK, Google, show [camera name]”, “Hey, Google, what’s on [camera name]?”, or “OK, Google, play [camera name] on [Chromecast name]”.
+If you have a robot vacuum, try something like: “OK, Google. Clean the whole house”, or “Vacuum the kitchen”. This requires some initial set-up, so make sure your smart vacuum cleaner is connected to Google Assistant and you have everything ready.
+There’s a plethora of other smart home devices. These include refrigerators, coffee makers, lamps, lawn mowers, and more. Many of these can also be controlled using Google Assistant.
+Using IFTTT with Google Home
+If you have a favorite app or service that’s not yet supported by Google Home, you might be in luck. Google Home is also compatible with IFTTT, the popular automation service. This means you can possibly hook up an app or service that doesn’t have support yet. For instance, Twitter doesn’t have Google Assistant support yet. However, you can still ask Google Assistant to post something to Twitter, as long as you have IFTTT set up. The same thing goes for other apps – want to add a task to Todoist? Just set it up in IFTTT, and Google Assistant will be able to add tasks whenever you ask it to.
+
+For a full list of IFTTT channels compatible with Google Assistant, head here.
+
+More: The best Google Home accessories
+
+Google Assistant commands for making phone calls
+Redmi Note 8 Pro review phone call
+
+Credit: Kris Carlon / Android Authority
+If you live in the US, Canada or the UK, you can use Google Home commands to make free phone calls for you if the numbers are inside the country. Calls to emergency numbers are not currently supported, and calls to international and premium (1-900) numbers are only supported in the US, and only if you have Google Home linked to your Project Fi or Google Voice number. You will be charged for international and premium calls.
+
+“Hey Google, call (phone number)”.
+“Hey Google, call, (business name)”.
+“Hey Google, where is the nearest (business)?”. When Google Home reveals that, say, “Call them”.
+“Hey Google, call (contact name)”.
+“Hey Google, redial”.
+To end a call, just tap on top of Google Home or say “Hey Google, stop/disconnect/end call/hang up”.
+Google Assistant commands for shopping
+google pixel 4 shopping voice assistant ces 2020
+
+In the US, you can now make commands to shop with Google Home, thanks to the Google Express service that supports over 50 retailers.
+
+To buy an item, say: “Hey Google, buy (product)”, “Purchase (product)” or “Order (product)”.
+To buy an item from a specific store, say: “Hey Google, buy (product) from (store)”, “Purchase (product) from (store)” or “Order (product) from (store)”.
+To reorder an item, say: “Hey Google, reorder <product>”.
+To add an item to your cart, say: “Hey Google, add (product) to my cart”, or “Add (product) to my shopping cart”.
+To add an item from a specific store, say: “Hey Google, add (product) from (store) to my cart”.
+At the moment, you cannot remove an item from your cart with Google Home commands, nor can you change the number of items in your cart.
+
+Also: The best shopping apps for Android
+
+Google Assistant third-party action commands
+Google Home commands
+
+Actions for Google Assistant are commands to enable actions from third party companies and services. Here’s some of the ones you can use:
+
+21 Blackjack: “OK, Google, let me talk to 21 Blackjack”.
+Best Dad Jokes: “OK, Google, talk to Best Dad Jokes”.
+Domino’s: “OK, Google, talk to Domino’s and get my Easy Order”.
+Product Hunt: “OK, Google, talk to Product Hunt”.
+Tender: “OK, Google, can I talk to Tender about drinks like an Old Fashioned?”.
+Todoist: “OK, Google, tell me what my next task is with Todoist”.
+Uber: “OK, Google, order an Uber”.
+Google Assistant commands that let you control your phone
+Google Pixel 3a Purple-ish Assistant - Google Home commands
+
+You can place a call by saying: “OK, Google, call mom”, “OK, Google, call [contact name]”, or “OK, Google, call the nearest coffee shop”.
+Hang up by saying: “OK, Google, hang up”.
+Want to pair your phone to it by Bluetooth? Say: “OK, Google, Bluetooth pairing”.
+Cancel Bluetooth pairing by saying: “OK, Google, cancel pairing”.
+Clear paired Bluetooth devices by saying: “OK, Google, clear all devices”, “OK, Google, clear all Bluetooth devices”, or “OK, Google, unpair devices”.
+Find your phone by saying: “OK, Google, find my phone”, or “OK, Google, ring my phone”.
+Google Assistant also now integrates Android Messages, Messenger, SMS, Telegram, WhatsApp and more. To activate this say: “Read back replies”.
+Next: The best Android phones you can buy
+
+Easter eggs
+Google Home Hub commands
+
+“Hey Google, do a barrel roll”.
+“Hey Google, what’s the loneliest number?”.
+“Hey Google, make me a sandwich”.
+“Hey Google, when am I?”.
+“Hey Google, beam me up, Scotty”.
+“Hey Google, how can entropy be reversed?”.
+“Are you John Legend?”.
+“What’s your best pickup line?”.
+“Who’s your celebrity crush?”.
+“Hey Google, tell me a joke”.
+“Hey Google, up up down down left right left right B A start”.
+“Hey Google, who’s on first?”.
+“Hey Google, I am your father”.
+“Hey Google, set phasers to kill”.
+“Hey Google, did you fart?”.
+“Hey Google, it’s my birthday”.
+“Hey Google, it’s not my birthday”.
+“Hey Google, who let the dogs out?”.
+“Hey Google, do you want to build a snowman?”.
+“Hey Google, how many roads must a man walk down?”.
+“Hey Google, who is the real Slim Shady?”.
+“Hey Google, who ya gonna call?”.
+“Hey Google, where in the world is Carmen Sandiego?”.
+“Hey Google, where’s Waldo?”.
+“Hey Google, party on, Wayne”.
+“Hey Google, talk like Yoda”.
+“Hey Google, Do you know the muffin man?”.
+“Hey Google, Is your refrigerator running?”.
+“Serenade me”.
+“Sing me a song”.
+“Do you know Chrissy Teigen?”.
+“How are you?”.
+“Sing Happy Birthday”.
+“What’s your favorite song?”.
+“Compliment me”.
+“OK, Google, are you SkyNet?”.

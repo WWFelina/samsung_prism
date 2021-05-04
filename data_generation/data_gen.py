@@ -3,7 +3,7 @@ import re
 def get_commands(text):
     # Need all text between " "
     pattern = r'"([^"]*)"'
-    m = re.findall(pattern, content)
+    m = re.findall(pattern, text)
 
     # Removing the alexa keyword
     # Removing punctuation
@@ -33,19 +33,3 @@ def find_placeholders(commands):
             to_generate.extend(placeholders)
     return to_generate
 
-if __name__ == "__main__":
-    #Opening file
-    with open("alexa.txt", "r") as f:
-        content = f.read()
-
-    m = get_commands(content)
-    #print(f"Total number of commands : {len(m)}")
-    #print(f"All commands : {m}")
-
-    word_dict = unique_words(m)
-    print(word_dict)
-    print(len(word_dict))
-
-    customisable = find_placeholders(m)
-    print(f"Total number of customisable commands : {len(customisable)}")
-    print(f"All customisable keywords : {set(customisable)}")
