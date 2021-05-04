@@ -1,17 +1,22 @@
 import re
 
-def get_commands(text):
-    # Need all text between " "
+def text_between_quotes(text):
     pattern = r'"([^"]*)"'
     m = re.findall(pattern, text)
-
-    # Removing the alexa keyword
-    # Removing punctuation
-    for i in range(len(m)):
-        m[i] = m[i].replace("Alexa, ", "")
-        m[i] = re.sub(r"[.!?\-,]", "", m[i])
-        m[i] = m[i].lower()
     return m
+
+#removing stuff like alexa, hey google, etc.
+def remove_key_phrase(command_list ,key_phrase):
+    for i in range(len(command_list)):
+        command_list[i] = command_list[i].replace(key_phrase, "")
+    return command_list
+
+#makes all text lower case and removes punctuation
+def remove_caps_punctuation(command_list):
+    for i in range(len(command_list)):
+        command_list[i] = re.sub(r"[.!?\-,]", "", command_list[i])
+        command_list[i] = command_list[i].lower()
+    return command_list
 
 def unique_words(commands):
     word_dict = {}

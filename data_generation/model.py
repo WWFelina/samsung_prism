@@ -8,7 +8,9 @@ if __name__ == "__main__":
     with open("alexa.txt", "r", encoding='utf8') as f:
         content = f.read()
 
-    m = get_commands(content)
+    m = text_between_quotes(content)
+    m = remove_key_phrase(m, "Alexa, ")
+    m = remove_caps_punctuation(m)
     #print(f"Total number of commands : {len(m)}")
     #print(f"All commands : {m}")
 
