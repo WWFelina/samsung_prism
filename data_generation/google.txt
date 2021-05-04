@@ -26,7 +26,7 @@ Add to your shopping list: “Hey Google, add [item] to my shopping list”.
 Check your shopping list: “Hey Google, what’s on my shopping list?”.
 Find out a recipe: “Hey Google, how do you make chicken soup?”.
 Math: “Hey Google, what is 14 x 5?”.
-Count: “Count: “OK, Google, count to 20”.
+Count: Count: “OK, Google, count to 20”.
 Random number: “OK, Google, give me a random number between 5 and 50”.
 Measurements: “Hey Google, how many centimeters are in an inch?”.
 Remember things: “OK, Google, remember that I put my passport in the filing cabinet”, or “Remember that my password is ‘money'”.
@@ -88,7 +88,7 @@ Daily briefing (includes weather, traffic and news): “Hey Google, good morning
 Sports updates, scores and information: “Hey Google, when are the [sports team] playing next?”, “Hey Google, did the [sports team] win?”, “Hey Google, what was the score for the last [sports team] game?”, “Hey Google, tell me about [sports team]”.
 Actors, movies and shows: “Hey Google, what actors are in [movie]?”, “Hey Google, what movies came out last week?”.
 Recommendations: “Hey Google. what are the best restaurants in [target location}?” “Hey, Google what restaurants are nearby?”.
-Find out how long it will take to go to work: “Hey Google, How long is my commute?”, “Hey Google, How long will it take to walk/bike/take a bus to [target location]?” Hey Google, how long will it take to get to [target location]?”, “Hey Google, How long with it take to get from work to [target location]?”.
+Find out how long it will take to go to work: “Hey Google, How long is my commute?”, “Hey Google, How long will it take to walk/bike/take a bus to [target location]?” "Hey Google, how long will it take to get to [target location]?”, “Hey Google, How long with it take to get from work to [target location]?”.
 Here: Google Home and Google Assistant services you should know about
 
 Google Assistant commands for scheduling and travel
@@ -108,7 +108,7 @@ Find flights with a specific airline: “OK, Google, find me flights with Jet Bl
 Check on your booked flights: “OK, Google, when is my next flight?”, or “OK, Google, my flights in [month]”.
 Book a hotel room: “OK, Google, find a hotel in San Francisco”. After that, say, “Book a room at Quality Inn”.
 Discover places to visit in your travel city: “OK, Google, what is there to see in Paris?”.
-Find restaurants to try in your travel city: “OK, Google, what’s the best restaurant in Berlin?.
+Find restaurants to try in your travel city: “OK, Google, what’s the best restaurant in Berlin?".
 More: 10 best calendar apps
 
 Google Assistant commands for playing music and media
@@ -181,7 +181,7 @@ How to control other smart home devices
 If you installed an August Smart Lock on your door, you can control it by saying: “OK, Google, lock the front door”.
 If you own a Logitech Harmony TV remote, you can say: “OK, Google, turn on the TV”, “OK, Google, turn the TV to the (specific) Channel”, or, “OK, Google, play channel 12”.
 If you own a Nest Cam, you can show what it’s filming via a Chromecast TV by saying: “OK, Google, show [camera name]”, “Hey, Google, what’s on [camera name]?”, or “OK, Google, play [camera name] on [Chromecast name]”.
-If you have a robot vacuum, try something like: “OK, Google. Clean the whole house”, or “Vacuum the kitchen”. This requires some initial set-up, so make sure your smart vacuum cleaner is connected to Google Assistant and you have everything ready.
+If you have a robot vacuum, try something like: “OK, Google, Clean the whole house”, or “Vacuum the kitchen”. This requires some initial set-up, so make sure your smart vacuum cleaner is connected to Google Assistant and you have everything ready.
 There’s a plethora of other smart home devices. These include refrigerators, coffee makers, lamps, lawn mowers, and more. Many of these can also be controlled using Google Assistant.
 Using IFTTT with Google Home
 If you have a favorite app or service that’s not yet supported by Google Home, you might be in luck. Google Home is also compatible with IFTTT, the popular automation service. This means you can possibly hook up an app or service that doesn’t have support yet. For instance, Twitter doesn’t have Google Assistant support yet. However, you can still ask Google Assistant to post something to Twitter, as long as you have IFTTT set up. The same thing goes for other apps – want to add a task to Todoist? Just set it up in IFTTT, and Google Assistant will be able to add tasks whenever you ask it to.

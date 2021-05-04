@@ -6,10 +6,15 @@ def text_between_quotes(text):
     return m
 
 #removing stuff like alexa, hey google, etc.
-def remove_key_phrase(command_list ,key_phrase):
-    for i in range(len(command_list)):
-        command_list[i] = command_list[i].replace(key_phrase, "")
+def remove_keyphrase(command_list ,keyphrase_list):
+    for keyphrase in keyphrase_list:
+        for i in range(len(command_list)):
+            command_list[i] = command_list[i].replace(keyphrase, "")
     return command_list
+
+def change_weird_double_quotes(text):
+    text = text.replace('“', '"').replace('”', '"').replace("‘", "'").replace("’", "'")
+    return text
 
 #makes all text lower case and removes punctuation
 def remove_caps_punctuation(command_list):
